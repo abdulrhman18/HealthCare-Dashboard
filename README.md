@@ -7,8 +7,8 @@ This project demonstrates end-to-end data analysis, from data modeling to creati
 
 ## 📸 Dashboard Previews
 <img width="1125" height="637" alt="HC1" src="https://github.com/user-attachments/assets/11af7c41-ddff-4c33-90c5-f91851a17342" />
-<img width="1125" height="633" alt="HC3" src="https://github.com/user-attachments/assets/158b6656-96cb-4376-97e3-48b7c5f9a587" />
 <img width="1111" height="624" alt="HC2" src="https://github.com/user-attachments/assets/cbe4afb2-7d1d-43fa-9e07-a0c64b63aa9f" />
+<img width="1125" height="633" alt="HC3" src="https://github.com/user-attachments/assets/158b6656-96cb-4376-97e3-48b7c5f9a587" />
  placeholder links with actual screenshots of your dashboard by dragging and dropping images into the GitHub editor)*
 
 
