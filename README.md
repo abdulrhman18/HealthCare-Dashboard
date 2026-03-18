@@ -9,8 +9,6 @@ This project demonstrates end-to-end data analysis, from data modeling to creati
 <img width="1125" height="637" alt="HC1" src="https://github.com/user-attachments/assets/11af7c41-ddff-4c33-90c5-f91851a17342" />
 <img width="1111" height="624" alt="HC2" src="https://github.com/user-attachments/assets/cbe4afb2-7d1d-43fa-9e07-a0c64b63aa9f" />
 <img width="1125" height="633" alt="HC3" src="https://github.com/user-attachments/assets/158b6656-96cb-4376-97e3-48b7c5f9a587" />
- placeholder links with actual screenshots of your dashboard by dragging and dropping images into the GitHub editor)*
-
 
 ## ✨ Key Features
 The dashboard is divided into three main actionable views:
@@ -38,8 +36,8 @@ The dashboard is divided into three main actionable views:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You are free to download, modify, and use this dashboard for your own learning or projects!
 
 ## 📫 Let's Connect
-Created by **Abd al-Rahman** | Data Analyst 
+Created by **Abdulhahman Ahmed Ibrahem** | Data Analyst 
 
 I specialize in building interactive dashboards using Power BI and transforming raw data into strategic insights. 
-* **LinkedIn:** [Insert your LinkedIn URL here]
+* **LinkedIn:** https://www.linkedin.com/in/abdulrhman-ahmed-60b0442a3/
 * **Freelance Services:** I am available for freelance data analysis projects. If you need help organizing your data or building custom dashboards, feel free to reach out!
